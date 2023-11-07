@@ -37,5 +37,5 @@ function showThanksPage(e) {
     changeContent('thank-you-content');
 }
 
-//changeContent('confirm-reservation-content');
+
 
